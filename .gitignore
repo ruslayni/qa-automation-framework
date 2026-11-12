@@ -1,0 +1,41 @@
+target/
+build/
+.gradle/
+.mvn/wrapper/maven-wrapper.jar
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+*.iws
+*.ipr
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS / Windows System Files ###
+.DS_Store
+Thumbs.db
+
+### Test Reports & Logs ###
+allure-results/
+allure-report/
+test-output/
+logs/
+*.log
+screenshots/
